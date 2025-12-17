@@ -1,0 +1,22 @@
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# H2 Database
+data/logdb.mv.db
+data/logdb.trace.db
+data/logdb.lock.db
+
+# IntelliJ IDEA
+.idea/*.xml
+.idea/modules/
+*.iml
+*.iws
+*.ipr
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db

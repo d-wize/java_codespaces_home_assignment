@@ -1,9 +1,0 @@
-/home/runner/work/java_codespaces_home_assignment/java_codespaces_home_assignment/src/main/java/com/example/logservice/AggregationsController.java
-/home/runner/work/java_codespaces_home_assignment/java_codespaces_home_assignment/src/main/java/com/example/logservice/AnomaliesController.java
-/home/runner/work/java_codespaces_home_assignment/java_codespaces_home_assignment/src/main/java/com/example/logservice/HealthController.java
-/home/runner/work/java_codespaces_home_assignment/java_codespaces_home_assignment/src/main/java/com/example/logservice/IngestionController.java
-/home/runner/work/java_codespaces_home_assignment/java_codespaces_home_assignment/src/main/java/com/example/logservice/LogRecord.java
-/home/runner/work/java_codespaces_home_assignment/java_codespaces_home_assignment/src/main/java/com/example/logservice/LogRecordRepository.java
-/home/runner/work/java_codespaces_home_assignment/java_codespaces_home_assignment/src/main/java/com/example/logservice/LogServiceApplication.java
-/home/runner/work/java_codespaces_home_assignment/java_codespaces_home_assignment/src/main/java/com/example/logservice/SearchController.java
-/home/runner/work/java_codespaces_home_assignment/java_codespaces_home_assignment/src/main/java/com/example/tools/GenerateLogs.java
