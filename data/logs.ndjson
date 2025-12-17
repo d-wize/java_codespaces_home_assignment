@@ -1,0 +1,2 @@
+{"ts":"2025-07-01T12:00:00Z","app":"api-gateway","level":"INFO","message":"request completed","attrs":{"region":"eu-west-1"}}
+{"ts":"2025-07-01T12:00:01Z","app":"auth","level":"ERROR","message":"failed to process request id=42","attrs":{"region":"us-east-1"}}

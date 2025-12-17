@@ -1,0 +1,13 @@
+
+{
+  "name": "Java Codespaces - Log Aggregator",
+  "image": "mcr.microsoft.com/devcontainers/java:21",
+  "features": {
+    "ghcr.io/devcontainers/features/common-utils:2": {
+      "installZsh": "false",
+      "username": "vscode"
+    }
+  },
+  "forwardPorts": [8080],
+  "postCreateCommand": "make bootstrap"
+}
