@@ -6,7 +6,10 @@
     "ghcr.io/devcontainers/features/common-utils:2": {
       "installZsh": "false",
       "username": "vscode"
-    }
+    },
+    "ghcr.io/devcontainers/features/maven:1": {
+      "version": "latest"
+    }    
   },
   "forwardPorts": [8080],
   "postCreateCommand": "make bootstrap"
