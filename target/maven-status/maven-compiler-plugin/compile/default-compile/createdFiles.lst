@@ -1,0 +1,9 @@
+com/example/logservice/LogRecordRepository.class
+com/example/logservice/HealthController.class
+com/example/logservice/SearchController.class
+com/example/logservice/LogRecord.class
+com/example/logservice/AnomaliesController.class
+com/example/logservice/LogServiceApplication.class
+com/example/tools/GenerateLogs.class
+com/example/logservice/IngestionController.class
+com/example/logservice/AggregationsController.class

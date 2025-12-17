@@ -40,8 +40,12 @@ public class GenerateLogs {
                     default -> "request completed";
                 };
                 String region = regions[rnd.nextInt(regions.length)];
-                String json = String.format("{"ts":"%s","app":"%s","level":"%s","message":"%s","attrs":{"region":"%s"}}",
-                        fmt.format(ts), app, level, message, region);
+
+                String json = String.format("""
+                {"ts":"%s","app":"%s","level":"%s","message":"%s","attrs":{"region":"%s"}}
+                """, fmt.format(ts), app, level, message, region);
+
+
                 bw.write(json);
                 bw.newLine();
             }
