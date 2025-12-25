@@ -1,5 +1,5 @@
 
-# Searchable Log Aggregator dwise home assignment — GitHub Codespaces Edition (Java)
+# DWIZE Searchable Log Aggregator Home Assignment — GitHub Codespaces Edition (Java)
  
 **Language:** Java (Spring Boot)  
 **Runtime:** GitHub Codespaces via devcontainer
